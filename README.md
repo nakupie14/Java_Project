@@ -75,4 +75,3 @@ The project uses `slf4j-simple` for basic console logging. Adjust dependencies o
 This repository includes a `LICENSE` file. Check it for license details.
 
 ---
-If you want, I can add badges, CI instructions, or a sample initial SQL seed (example users). Tell me which details you'd like adjusted.
